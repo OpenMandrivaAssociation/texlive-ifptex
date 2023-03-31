@@ -1,6 +1,6 @@
 Name:		texlive-ifptex
 Version:	62982
-Release:	1
+Release:	2
 Summary:	Check if the engine is pTeX or one of its derivatives
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ifptex
